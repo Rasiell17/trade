@@ -1,0 +1,11 @@
+ccxt
+pandas
+numpy
+scikit-learn
+torch
+matplotlib
+streamlit
+pymongo
+ta-lib
+python-telegram-bot
+discord.py 
